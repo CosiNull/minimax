@@ -1,0 +1,2 @@
+# minimax
+Programming minimax algo
